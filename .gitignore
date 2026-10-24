@@ -1,0 +1,24 @@
+# Maven / Java
+target/
+*.class
+*.log
+# IDE
+.idea/
+.vscode/
+*.iml
+.project
+.classpath
+.settings/
+# Local data and secrets
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+*.db-wal
+*.db-shm
+*.ser
+.env
+.env.*
+# OS
+.DS_Store
+Thumbs.db

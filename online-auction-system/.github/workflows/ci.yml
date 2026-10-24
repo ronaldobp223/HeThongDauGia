@@ -1,0 +1,2 @@
+# TODO BT32: Cấu hình workflow GitHub Actions (checkout, setup-java@25, mvn clean verify).
+# Chưa kích hoạt CI, tránh lầm tưởng quy trình kiểm thử đã hoàn chỉnh.

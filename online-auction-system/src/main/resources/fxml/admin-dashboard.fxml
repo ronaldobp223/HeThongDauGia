@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.layout.VBox?>
+<!-- TODO: Thiết kế FXML ở BT25-28 / BT30. Chưa có điều khiển giao diện. -->
+<VBox xmlns:fx="http://javafx.com/fxml" spacing="12" />
