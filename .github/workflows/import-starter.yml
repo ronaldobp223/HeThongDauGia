@@ -1,0 +1,9 @@
+# Import scaffold workflow (configuration will follow)
+name: Import Starter Scaffold
+on:
+  workflow_dispatch:
+jobs:
+  placeholder:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo 'Import configuration pending'
